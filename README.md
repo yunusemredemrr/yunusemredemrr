@@ -1,8 +1,8 @@
-# Hi there, I'm Yunus Emre Demir 👋 
+# Hi there, I'm Yunus Emre Demir 👋
 
 ## I am a mobile application developer
 
-- 🌱  I’m currently working on Native Android and Flutter 
+- 🌱 I’m currently working on Native Android and Flutter
 - 📫 How to reach me yedyunusemredemir@gmail.com
 
 ### Connect with me:
@@ -18,7 +18,6 @@
 
 ### Languages and Tools:
 
-
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/)
 [<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />](https://www.figma.com/)
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com/)
@@ -31,9 +30,6 @@
 <br />
 <br />
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="yunusemredemrr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yunusemredemrr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
