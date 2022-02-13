@@ -1,6 +1,6 @@
 # Hi there, I'm Yunus Emre Demir 👋
 
-## I am a mobile application developer
+## I am a Mobile Application Developer
 
 - 🌱 I’m currently working on Native Android and Flutter
 - 📫 How to reach me yedyunusemredemir@gmail.com
@@ -12,9 +12,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yunusemredemir#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yunusemredemir#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yunusemredmrr/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yunusemredmrr#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
@@ -24,6 +22,7 @@
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="Php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/)
+[<img align="left" alt="Postman" width="26px" src="./img/postman.svg" style="padding-right:10px;" />](https://www.postman.com/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
