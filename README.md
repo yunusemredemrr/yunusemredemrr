@@ -34,6 +34,4 @@
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunusemredemrr&theme=dark&background=000000)](https://git.io/streak-stats#gh-dark-mode-only)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunusemredemrr&theme=light)](https://git.io/streak-stats)
-(https://git.io/streak-stats#gh-light-mode-only)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunusemredemrr&theme=dark&background=000000)](https://git.io/streak-stats)
